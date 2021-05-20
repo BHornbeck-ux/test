@@ -147,5 +147,9 @@ var routes = [
   {
     path: '(.*)',
     url: './pages/notfound/notfound.html',
+    options: {
+        animate: true,
+    transition: 'f7-cover-v',
+      },
   },
 ];
