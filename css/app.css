@@ -36,7 +36,7 @@ body,html{
 }
 
 .list li {
-  background-color: #3D4E68;
+  background-color: #111720;
   margin-left: 10px;
   margin-right: 10px;
   margin-top: 8px;
@@ -55,38 +55,24 @@ body,html{
   width: 55px;
   padding: 5px;
   border-radius: 20px;
-  background-color: #3D4E68;
+  background-color: #111720;
   float: right;
   font-size: 12px;
   font-weight: 700;
   text-align: center;
   border:2px solid #1E93FF;
   color:#1E93FF;
-}
-.back {
-
 }
 .link back{
   background-color: #F2F7FF;
 }
-.goback {
-  width: 10px;
-  padding: 12px;
-  border-radius: 20px;
-  background-color: #3D4E68;
-  float: right;
-  color:#1E93FF;
-}
 .abtn {
-  width: 55px;
-  padding: 5px;
-  border-radius: 20px;
-  background-color: #3D4E68;
+  background-color: #111720;
   float: right;
   font-size: 12px;
   font-weight: 700;
   text-align: center;
-  border:2px solid #1E93FF;
+  border:2px solid #111720;
   color:#1E93FF;
 }
 .color-txt {
