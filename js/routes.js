@@ -8,13 +8,6 @@ var routes = [
       },
   },
   {
-    path: '/addlist/',
-    url: './pages/other/addlist.html',
-    options: {
-        animate: false,
-      },
-  },
-  {
     path: '/games/',
     url: './pages/other/games.html',
     options: {
@@ -78,8 +71,15 @@ var routes = [
       },
   },
   {
-    path: '/applist/',
-    url: './pages/tabs/applist.html',
+    path: '/addlist/',
+    url: './pages/tabs/addlist.html',
+    options: {
+        animate: false,
+      },
+  },
+  {
+    path: '/section/',
+    url: './pages/tabs/section.html',
     options: {
         animate: false,
       },
