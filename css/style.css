@@ -79,7 +79,17 @@
   float: right;
   font-weight: 700;
   text-align: center;
+  color:#F2F7FF;
+}
+.next:hover {
+  background: #111720;
   color:#1E93FF;
+  transition: all 0.1s
+}
+.next:active:after {
+  padding: 0;
+  margin: 0;
+  transition: 0s
 }
 .get{
   border-radius: 7px;
@@ -92,5 +102,15 @@
   float: right;
   font-weight: 700;
   text-align: center;
+  color:#F2F7FF;
+}
+.get:hover {
+  background: #111720;
   color:#1E93FF;
+  transition: all 0.1s
+}
+.get:active:after {
+  padding: 0;
+  margin: 0;
+  transition: 0s
 }
