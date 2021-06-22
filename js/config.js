@@ -30,7 +30,7 @@ var routes = [
   },
   {
     path: '/other/',
-    url: './pages/other/other.html',
+    url: './pages/section/other.html',
     options: {
         animate: false,
       },
@@ -86,7 +86,14 @@ var routes = [
   },
   {
     path: '/version/',
-    url: './pages/drop-down/index.html',
+    url: './pages/drop-down/version.html',
+    options: {
+        animate: false,
+      },
+  },
+{
+    path: '/webclip/',
+    url: './pages/drop-down/webclip.html',
     options: {
         animate: false,
       },
